@@ -6,7 +6,7 @@ Entre os dias 19 e 29 de Janeiro, a plataforma **Alura** disponibilizou a **Imer
 
 O projeto final do curso se tratava de uma espécie de clone da interface do Spotify. 
 
-### A imersão
+## A imersão
 
 1. 3 Lives (Abertura, intermediária e encerramento);
 2. Canal no discord (Fórum de dúvidas; resultados; 3 encontros diários ao vivo com instrutores);
